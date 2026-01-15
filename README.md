@@ -1,23 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="et">
-<head>
-  <meta charset="UTF-8">
-  <title>Geneetika</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 40px;
-      line-height: 1.6;
-    }
-    h1 { margin-bottom: 20px; }
-    h2 { margin-top: 24px; color: #003366; }
-  </style>
-</head>
-<body>
-
 <h1>Geneetika</h1>
 
 <h2>Küsimus 1</h2>
